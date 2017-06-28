@@ -1,4 +1,4 @@
 #exclude
-/.env
-/vendor/
-/logs/
+.env
+vendor/
+logs/
